@@ -46,7 +46,7 @@ MAIN PAGE:
 ![App Screenshot](/DEMO.png)
 
 
-## Authors
+## Author
 
 - [@WebRevo](https://github.com/WebRevo)
 
